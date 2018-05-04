@@ -1,5 +1,5 @@
 # Lemin
-Ant-basedcalculationunit
+Ant-based calculation unit
 
 The goal is to program an algorithm that can allow the ants to move between rooms and tunnels,
 at the end they have to end in the last room.  
