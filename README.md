@@ -30,4 +30,6 @@ Bonus : ./lem_in < file | ./bonus/visu_hex
 -------------------------------------------
 
 To compile the bonus binary, you must first install the CSFML Library.
-Enjoy it !
+Enjoy it !  
+
+In collaboration with : Alexandre Sachs, Kelian Cipierre
